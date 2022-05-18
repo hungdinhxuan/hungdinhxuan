@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-    <img width="200" height="200" src="https://user-images.githubusercontent.com/79694464/169041291-1e3dc373-9b30-4363-a005-11fc72b02549.png" alt="my banner">
+    <img src="https://user-images.githubusercontent.com/79694464/169041291-1e3dc373-9b30-4363-a005-11fc72b02549.png" alt="my banner">
 </p>
 
 ## 📋 Languages
@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-Servers
+## Servers
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
