@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**dinhhungGM/dinhhungGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hungdinhxuan/hungdinhxuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -89,6 +89,6 @@ Here are some ideas to get you started:
 
 ## GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dinhhungGM)](https://github.com/dinhhungGM)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hungdinhxuan)](https://github.com/hungdinhxuan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinhhungGM&layout=compact)](https://github.com/dinhhungGM)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hungdinhxuan&layout=compact)](https://github.com/hungdinhxuan)
